@@ -1,7 +1,7 @@
 <body style="background-color: blue;">
 
 <div background="#5B8EB3">
-<img align="right" alt="Coding" width="350" src="https://github.com/AntonyViana/AntonyViana/blob/main/213.png">
+<img align="right" alt="Coding" width="370" src="https://github.com/AntonyViana/AntonyViana/blob/main/213.png">
 <h1 align="center">Olá , eu sou Antony Viana</h1>
 
 
