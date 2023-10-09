@@ -10,7 +10,7 @@
  Como me contatar antonyvianapkr@gmail.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyViana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-<hr>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonyViana&show_icons=true&locale=en&theme=tokyonight" alt="AntonyViana" /></p>
 
